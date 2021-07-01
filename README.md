@@ -24,3 +24,8 @@
 - use `.gitkeep` to "keep" an empty folder
 - use `.gitignore` to ignore files/patterns
 
+# remotes
+	
+- `ssh-keygen`: to create ssh keys
+- `git remote add <URL>`: adds the url	
+- `git push origin main`: push the main branch to the origin remote
