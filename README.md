@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # 2021-07-01-git_basics
+=======
+>>>>>>> 54c3999610044c2001d84ea9cd7922e094ad5bee
 
 - `git init`: initialize git repository in current working directory
 - `git status`: gives you status of current repository
@@ -24,7 +27,9 @@
 - use `.gitkeep` to "keep" an empty folder
 - use `.gitignore` to ignore files/patterns
 
-# REMOTES
+<<<<<<< HEAD
+# Remotes
+>>>>>>> 54c3999610044c2001d84ea9cd7922e094ad5bee
 	
 - `ssh-keygen`: to create ssh keys
 - `git remote add <URL>`: adds the url	
